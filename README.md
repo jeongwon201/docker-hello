@@ -1,5 +1,7 @@
 # doekr-hello | 도커 실습
 
+nodejs로 간단하게 구현한 웹 애플리게이션을 도커로 배포한 실습 자료입니다.
+
 도커 허브 링크
 https://hub.docker.com/repository/docker/jeongwon201/docker-hello
 
