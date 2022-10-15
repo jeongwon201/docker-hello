@@ -1,4 +1,4 @@
-# doekr-hello | 도커 실습
+# docker-hello | 도커 실습
 
 nodejs로 간단하게 구현한 웹 애플리게이션을 도커로 배포한 실습 자료입니다.
 
