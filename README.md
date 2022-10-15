@@ -1,9 +1,11 @@
-# docker-hello
+# doekr-hello | 도커 실습
 
-#도커 실습
 
-참고
+
+참고 자료
 https://happycloud-lee.tistory.com/244?category=830565
+
+
 
 - CentOS 8.4 Server 다운로드 이슈
 2021년 12월 31일 이후 EOS
