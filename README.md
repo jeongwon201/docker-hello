@@ -12,7 +12,7 @@ sed -i 's|#baseurl=http://mirror.centos.org|baseurl=http://vault.centos.org|g' /
 
 CentOS 도커 설치 에러
 - CentOS 에서 podman과 buildah 때문에 설치를 막아놓았음, podman과 buildah 삭제
-> $ yum remove podman
+> $ yum remove podman <br />
 > $ yum remove buildah
 
 도커 서비스 에러
